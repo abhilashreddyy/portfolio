@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Abhilash Reddy",
-  description: "Backend and ML engineer. A simple Next.js site deployed on Vercel.",
+  description: "Backend and ML engineer, 5+ years. Distributed services on AWS, agentic LLM pipelines, inference optimization.",
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
